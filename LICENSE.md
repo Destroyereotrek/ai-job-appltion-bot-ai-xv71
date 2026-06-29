@@ -1,4 +1,4 @@
-# 
+# Mis à jour AI Job Application Bot extensions. Avec apprentissage par transfert et sécurité de l'IA — optimisé pour des performances maximales.
 
 
 
